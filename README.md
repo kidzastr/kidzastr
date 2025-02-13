@@ -1,13 +1,13 @@
 # Olá, me chamo Vinicius 👋
 # Bem vindo ao meu perfil no GitHub 🦩
 
-##🌱Atualmente estou estudando: 
+-🌱Atualmente estou estudando: 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="30" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="30" height="30" />
                               
 
           
-##📫 Contatos: 
+-📫 Contatos: 
 
 <div>
 <a href="https://www.youtube.com/@VinnyGamerBR" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
