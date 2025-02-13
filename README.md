@@ -1,5 +1,5 @@
 # Olá, me chamo Vinicius 👋
-# Bem vindo ao meu perfil no GitHub 🦩
+## Bem vindo ao meu perfil no GitHub 🦩
 
 -🌱Atualmente estou estudando: 
 
@@ -24,7 +24,6 @@
 </div>
 
 
-![Snake animation](https://github.com/kidzastr/kidzastr/blob/output/github-contribution-grid-snake.svg)
 
 
 
