@@ -24,6 +24,8 @@
 </div>
 
 
+![Snake animation](https://github.com/kidzastr/kidzastr/blob/output/github-contribution-grid-snake.svg)
+
 
 name: Generate Datas
 
